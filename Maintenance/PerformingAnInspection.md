@@ -2,39 +2,47 @@
 
 ## Carrying out the First Inspection on an Asset
 
-From the *Home* page select *Asset Tools*.
+From the *Home* page go to *Asset Tools*.
 
-![image-20200506154502471](image-20200506154502471.png)
+![image-20220405101133218](image-20220405101133218.png)
 
-Then select *Asset List*.
+From the drop down menu, select *Asset List*.
 
-![image-20200506154558054](image-20200506154558054.png)
+![image-20220405101325682](image-20220405101325682.png)
 
 Filter your Assets to the ones that you need to inspect (this could just be the Inspection Assets), remembering to click on the *Include Unusable* box to ensure all the Assets are shown. 
 
-![image-20200506154858813](image-20200506154858813.png)
+![image-20220405101634363](image-20220405101634363.png)
 
-Select the first Asset you need to inspect by clicking on the Asset name.
+It would be advised to check Tags at this stage, any Tags on an asset might provide essential information about the assets you are due to inspect. You can do this by either clicking the *Hide Tags* button, which will show all Tags on your assets
 
-![image-20200506155036145](image-20200506155036145.png)
+![image-20220405102718734](image-20220405102718734.png)
+
+Or you can click on the Tag symbol next to an individual asset to view the Tag just for that asset
+
+![image-20220405103221262](image-20220405103221262.png)
+
+Once you have reviewed Tags, select the first Asset you need to inspect by clicking on the Asset name.
+
+![image-20220405104639327](image-20220405104639327.png)
 
 Select *New Inspection*.
 
-![image-20200506155133114](image-20200506155133114.png)
+![image-20220405104735635](image-20220405104735635.png)
 
 Select the Inspection Type you wish to carry out and then click on *Create*.
 
-![image-20200506155348191](image-20200506155348191.png)
+![image-20220405104913128](image-20220405104913128.png)
 
 The Inspection Details screen will open up which will show you some details of the Asset and a Briefing.
 
 Work your way through each of the Inspection items, marking the Results and making any notes as you do so.
 
-![image-20200506155845194](image-20200506155845194.png)
+![image-20220405105124193](image-20220405105124193.png)
 
 If there are any Faults that need logging, click on *Log Fault* at the top of the screen.
 
-![image-20200506155936233](image-20200506155936233.png)
+![image-20220405105222034](image-20220405105222034.png)
 
 The Fault should be logged and a Task set.
 

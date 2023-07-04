@@ -4,13 +4,9 @@ Most companies have routine inspections that need to be carried out on a regular
 
 The first stage to setting up Inspections in Harbour Assist is to create an Inspection Regime.  This Regime can then be attached to an asset, building, piece of equipment or plant.
 
-From the *Home* page, select *Asset Maintenance*.
+From the *Asset Tools* on the Home page, select *Inspection Regime Setup*.
 
-![image-20200414162526040](image-20200414162526040.png)
-
-Then select *Inspection Regime Setup*.
-
-![image-20200414162636987](image-20200414162636987.png)
+![image-20211130125834733](image-20211130125834733.png)
 
 Click on *New Inspection Regime*.
 
@@ -85,7 +81,6 @@ Once complete the Inspection you have set up will show in the *Inspection Regime
 ![image-20200427160344383](image-20200427160344383.png)
 
 ![image-20200427160420149](image-20200427160420149.png)
-
 
 
 

@@ -1,12 +1,12 @@
 # Creating a Smart List
 
-To create a Smart List, from the *Home* page, click on **Smart List Hub**.
+To create a Smart List, from the *Home* page, click on **Smart Lists & Tagging**.
 
-![image-20210427123512214](image-20210427123512214.png)
+![image-20220601134446218](image-20220601134446218.png)
 
-Then choose **Smart Lists**.
+From the drop down box, select **Smart List Manager**.
 
-![image-20210423152513878](image-20210423152513878.png)
+![image-20220601134650112](image-20220601134650112.png)
 
 Now you need to decide which records type you want to create the Smart List for.  Think about what detail you are trying to find or which group of customers you want to contact, here are a few examples and which type of List to create:-
 

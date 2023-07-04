@@ -7,17 +7,17 @@ Individual email communications with customers can be done either directly throu
 
 From the customer Account select the *Comms* tab.
 
-![image-20200116112825080](image-20200116112825080.png)
+![image-20220531142821595](image-20220531142821595.png)
 
 Select Email.
 
-![image-20200122171102838](image-20200122171102838.png)
+![image-20220531142908571](image-20220531142908571.png)
 
 You can now select the template that you wish to use from the drop down list of templates.
 
 ?> More documentation [here](communications/EmailTemplates.md).
 
-![image-20200221163432741](image-20200221163432741.png)
+![image-20220531144212231](image-20220531144212231.png)
 
 Give your email a *subject* - this will default to the template name, so be sure to change this so that it makes sense to the recipient.  This subject also appears in the *Communications* summary so be as clear as possible so that other colleagues looking at the communications have a good idea what the email was about without having to view it.
 
@@ -38,7 +38,7 @@ You can also add any attachment to the email -
 
 ?> For more information about Library Documents click [here](communications/StaticFiles.md).
 
-![image-20200221163958757](image-20200221163958757.png)
+![image-20220531144339859](image-20220531144339859.png)
 
 
 
@@ -46,51 +46,28 @@ You now need to add your text to the email.
 
 At any point during the email writing process you can save your email - this will save it as a draft which is still fully editable.
 
-![image-20200221165310209](image-20200221165310209.png)
+![image-20220531144557874](image-20220531144557874.png)
 
 
 
-Once you are happy with you email, its appearance and content select *Send*.  
+Once you are happy with your email, its appearance and content, select *Send*.  
 
-![image-20200221165407524](image-20200221165407524.png)
+![image-20220531144707538](image-20220531144707538.png)
 
 
 
 This will send the email to the recipient(s) and it can no longer be edited.
 
-![image-20200221165519848](image-20200221165519848.png)
+![image-20220531144836468](image-20220531144836468.png)
 
 To exit this screen, click on the *back* arrow.
 
-![image-20200221165612106](image-20200221165612106.png)
+![image-20220531144948452](image-20220531144948452.png)
 
 
 
 Going back to the *Comms* tab, you will see the email is now shown in the list of communications for that account.  
 
-![image-20200221165820745](image-20200221165820745.png)
-
-## Track Mailbox ##
-
-To help you include important emails in an Account's Communication history, Harbour Assist provides a *Track* mailbox that allows you to forward emails from anywhere.  
-
-This *Track* address will show at the top of any Comms page.
-
-![image-20200221170103101](image-20200221170103101.png)
+![image-20220531145037576](image-20220531145037576.png)
 
 
-
-**As long as the email address stored in Harbour Assist is somewhere in the message, the email will be picked up and attached as a Communication against the Account.**
-
-This can be used when:
-
-- You have received an email from a Customer directly into your inbox and you think it's worthwhile appearing Account's Communication history.  For example if they have made a complaint.
-- Emails you send from Outlook that you want to appear in Harbour Assist.
-
-### Sending from your Email Account ###
-
-If sending the email from your company email system (e.g. Outlook), the *Track* address should be entered in the Bcc address field of the email.
-
-By doing this, the email will automatically be attached to the account as long as the email address on the account matches the email address you are using to send the email.
-
-As described above, replies received from account holders can be logged on their Harbour Assist account by forwarding the response to the *Track* email address.  Again the email address in the Account needs to match the one contained in the email.

@@ -3,11 +3,11 @@ Creating a Letter
 
 To create a one-off letter to an individual customer directly from Harbour Assist - from the customer account select the *Comms* tab.
 
-![image-20200116112825080](image-20200116112825080.png)
+![image-20220531150803834](image-20220531150803834.png)
 
 Select *Letter*.
 
-![image-20200116112930081](image-20200116112930081.png)
+![image-20220531150845141](image-20220531150845141.png)
 
 You can now select the template that you wish to use from the drop down list of templates - this could be a 'Master Header' template if you are sending a bespoke letter, or an already created template such as for debt chasing which would produce a standard letter.
 
@@ -19,7 +19,7 @@ Give your letter a *subject* title - this title will appear in the *Comms* summa
 
 Depending on which template you use, some details may be populated automatically for you - you can review your letter at any time by clicking on the Preview button which will show you your letter, the layout and any pre-populated information.
 
-![image-20200122142538710](image-20200122142538710.png)
+![image-20220531151730221](image-20220531151730221.png)
 
 In this example you can see the name, address, date and greeting have all bee populated automatically for me.  
 
@@ -59,11 +59,11 @@ When you have printed the letter, close the download - this will take you back t
 
 To exit this screen, click on the *back* arrow and you will taken back to the *Comms* tab.
 
-![image-20200122145202503](image-20200122145202503.png)
+![image-20220531151843910](image-20220531151843910.png)
 
 Going back to the *Comms* tab, you will see the letter is now shown in the list of communications for that account.  
 
 In future if you want to view or reprint the letter, you can click on the attachment icon and this will open up the committed letter.
 
-![image-20200122153832454](image-20200122153832454.png)
+![image-20220531151929472](image-20220531151929472.png)
 

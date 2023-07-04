@@ -12,11 +12,11 @@ In order to record a Refund on Harbour Assist there needs to be an unallocated p
 
 From the *Orders* tab on an Account click on the green *Actions* button on the unallocated payment line and select *Refund*.
 
-![image-20200708135058298](image-20200708135058298.png)
+![image-20220802140910965](image-20220802140910965.png)
 
 Enter the Refund Amount either manually or by clicking on *Refund all of if*, and add the reason for the Refund.  Then click *Save*.
 
-![image-20200708135302812](image-20200708135302812.png)
+![image-20220126160153272](image-20220126160153272.png)
 
 Confirm the Refund by clicking *Yes*.
 
@@ -24,6 +24,6 @@ Confirm the Refund by clicking *Yes*.
 
 The Refund is now recorded on the customer account and the unallocated payment shows as allocated as there are now no funds left to allocate.
 
-![image-20200708135729519](image-20200708135729519.png)
+![image-20220126160429268](image-20220126160429268.png)
 
 ?> NB: You can part refund a payment ie. if the payment is for £14.00 you could refund £10 and leave £4 on the account to allocate against any outstanding orders.

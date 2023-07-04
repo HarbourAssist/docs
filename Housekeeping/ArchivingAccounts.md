@@ -8,7 +8,7 @@ There's a few things to note:-
 
 - Archiving an account doesn't mean you will lose any information - it will all still be there on the archived account.
 - When searching, archived accounts will still show in the results, but they will appear in red and below any live accounts.
-  ![image-20201221145822376](image-20201221145822376.png)
+  ![image-20220211135940149](image-20220211135940149.png)
 
 - You **can** archive an account that has a debt or credit balance - they will still appear in the debt reports.
 - You **cannot** archive an account that has open Tasks - these will need to be completed or deleted.  A pop-up message will appear informing you if there are open tasks on an account.
@@ -23,11 +23,11 @@ There's a few things to note:-
 
 From within the Account, click on the *Account* tab.
 
-![image-20201221154629342](image-20201221154629342.png)
+![image-20220211140121076](image-20220211140121076.png)
 
 Click on the *Archive* button - this can be found towards the bottom of the page on the right hand side.
 
-![image-20201221154807266](image-20201221154807266.png)
+![image-20220211140246875](image-20220211140246875.png)
 
 Complete the details in the pop-up box:-
 
@@ -37,11 +37,11 @@ Complete the details in the pop-up box:-
 
 
 
-![image-20201221154958250](image-20201221154958250.png)
+![image-20220211140417220](image-20220211140417220.png)
 
 The Account background will turn red indicating this is now an Archived Account.
 
-![image-20201221155145604](image-20201221155145604.png)
+![image-20220211140454694](image-20220211140454694.png)
 
 ?> Additional Account Archive Reasons can be added in Lookups.  For more documentation about Lookups click [here](Administration/Lookups.md). 
 
@@ -49,19 +49,19 @@ The Account background will turn red indicating this is now an Archived Account.
 
 From within the Account, click on the *Account* tab.
 
-![image-20201221161646594](image-20201221161646594.png)
+![image-20220211140552227](image-20220211140552227.png)
 
-Click on the *Reinstate* button - this can be found towards the bottom of the page on the right hand side.
+Click on the *Reinstated* button - this can be found towards the bottom of the page on the right hand side.
 
-![image-20201221161842516](image-20201221161842516.png)
+![image-20220211140716425](image-20220211140716425.png)
 
-Click on Ok.
+Click on Yes.
 
-![image-20201221161930127](image-20201221161930127.png)
+![image-20220211140812947](image-20220211140812947.png)
 
 The Account background will turn white indicating this is now a Live Account.
 
-![image-20201221162004841](image-20201221162004841.png)
+![image-20220211140900805](image-20220211140900805.png)
 
 ?> Reinstating an Account will not reinstate any Boats on the Account - they will remain as Archived unless their status is changed to Live.
 
@@ -71,20 +71,20 @@ Click on the *Boats* tab to see any Archived Boats.
 
 ?> The Dashboard view will only show Live Boats.
 
-![image-20201221162718465](image-20201221162718465.png)
+![image-20220211141025312](image-20220211141025312.png)
 
 This will show all Boats on the Account and their status.
 
 Click on the name of the boat to access the details.
 
-![image-20201221162908108](image-20201221162908108.png)
+![image-20220211141110968](image-20220211141110968.png)
 
 The Boat background will appear in red, indicating it is an Archived Boat.
 
 Click on the dropdown arrow in the *Status* cell and *Live*.
 
-![image-20201221163009556](image-20201221163009556.png)
+![image-20220211141210382](image-20220211141210382.png)
 
 The Boat background will turn white indicating this is now a Live Boat.
 
-![image-20201221163225629](image-20201221163225629.png)
+![image-20220211141300116](image-20220211141300116.png)

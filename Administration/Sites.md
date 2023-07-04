@@ -2,15 +2,15 @@
 
 The details of each site (harbour or marina) that is set up within Harbour Assist can be edited from the Administration tile on the *Home* page.
 
-![image-20200512154151675](image-20200512154151675.png)
+![image-20220711153856060](image-20220711153856060.png)
 
 Under *Infrastructure Settings* select *Sites*.
 
-![image-20200512154614437](image-20200512154614437.png)
+![image-20220711153938602](image-20220711153938602.png)
 
 To edit an existing site, click on the Site name to open the details.
 
-![image-20200512155508481](image-20200512155508481.png)
+![image-20220711154046571](image-20220711154046571.png)
 
 The *Site* screen shows all the details relating to that site.  
 
@@ -18,5 +18,5 @@ Contact details (address, phone number and email) and payment details (bank acco
 
 The Order Types that can be raised for that site can also be enabled or disabled from this screen, and the Pricebook that is used for the site can be set.
 
-![image-20200512155749276](image-20200512155749276.png)
+![image-20220711154323326](image-20220711154323326.png)
 

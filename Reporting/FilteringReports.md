@@ -4,13 +4,13 @@ Each report has a selection of Filters that can be set so that you can drill dow
 
 ?> NB. When selecting the dates on any report, the system will default of 00:00 for the date selected, so if you wish to include transactions for the last day of a month, make sure you select the end date of the 1st of the following month.
 
-![image-20200728151445444](image-20200728151445444.png)
+![image-20220128101358359](image-20220128101358359.png)
 
 Once you have set your Filters, you can hide this panel by clicking on the *Filter* icon so that your report fills the whole screen.
 
-![image-20200728152012540](image-20200728152012540.png)
+![image-20220128101606485](image-20220128101606485.png)
 
 If you need to show them again, just click on the *Filter* icon again to display them.
 
-![image-20200728151528870](image-20200728151528870.png)
+![image-20220128101508711](image-20220128101508711.png)
 

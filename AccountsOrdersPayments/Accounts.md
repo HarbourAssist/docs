@@ -14,9 +14,9 @@ If you need any new Account Types adding please contact us by raising a help tic
 
 Once you have found your account you can see at a glance the main detail of the account in the account header box at the top of the screen.  This shows which site the account is for, the account type, gives an overview of the account balance, highlighting if any money is owed and shows who created the account and when.
 
-![image-20191212154734096](image-20191212154734096.png)
+![image-20220118133211823](image-20220118133211823.png)
 
 You can navigate around the account using the tabs to find order details, boat details, communications with the customer, tasks that have been set relating to the account, documents relating to the account and details of any waiting list the account is on.
 
-![image-20191212154846744](image-20191212154846744.png)
+![image-20220118133519313](image-20220118133519313.png)
 

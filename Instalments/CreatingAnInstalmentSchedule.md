@@ -1,20 +1,14 @@
 # Creating an Instalment Schedule #
 
-- Navigate to the Account you'd like to create the Instalment Schedule for.
-- Click on the *Orders* Tab.
-- Click on the *View Instalment Schedules* button.
+Navigate to the Account you'd like to create the Instalment Schedule for.
 
-![image-20191210115210421](image-20191210115210421.png)
+Click on the *Instalment* button.
 
-- You will be shown the list of existing Schedules.  Here you can click on *New Instalment Schedule* button.
-
-![image-20191210115314357](image-20191210115314357.png)
+![image-20230427144314767](image-20230427144314767.png)
 
 You will be prompted with the following:
 
 - Whether to create a Custom Schedule.
-
-?> This requires the "InstalmentCustomSchedules" permission.  If you don't have this permission you won't see this option.
 
 - Which Instalment Plan to use when generating the Schedule.  This will determine the number of months over which the value is split.
 
@@ -22,20 +16,40 @@ You will be prompted with the following:
 
 - Which month to start the Schedule from. 
 
-![image-20191210115411312](image-20191210115411312.png)
+![image-20230420143900297](image-20230420143900297.png)
 
-When you have completed this, click on *Next*.  You will be taken to the page where you can add Tariffs and see how the Value is calculated.
+When you have completed this, click on *Next*.  
 
+You will be taken to the page where you can select which Asset is required, add Tariffs and see how the value is calculated.
+
+![image-20230420144117161](image-20230420144117161.png)
+
+- Select the Asset in the same way as you do when creating an Order.
 - Click on *Add Tariff*.  A pop-up will appear allowing you to choose the Tariffs.
 
-?> NB: Only Tariffs configured to be availble to the chosen Instalment Plan will be availble.  Tariffs which aren't available in the selected Pricebook will be shown crossed-out.
+?> NB: Only Tariffs configured to be available to the chosen Instalment Plan will be available.  Tariffs which aren't available in the selected Pricebook will be shown crossed-out.
 
 -  Add the appropriate Tariffs.
 - Click on *Done*.
 
-The Schedule screen will show the total value of the Schedule and how this breaks down on a per-month basis.  At this point, the Schedule isn't saved, it's in a "Proposed" State.  Whilst in this State, Tariffs can be added, Occupancy dates modified etc.  Once you are happy with the payment schedule, click on *Commit*.
+The Schedule screen will show the total value of the Schedule and how this breaks down based on the number and frequency of payments set up in the Instalment Plan.  At this point, the Schedule isn't saved, it's in a **Proposed** State.  Whilst in this State, Tariffs can be added, Occupancy dates modified etc.  
 
-?> Once *Committed* an Instalment Schedule cannot be edited, it would need to be Credited out, so please be sure the schedule is correct.
+![image-20230420144352073](image-20230420144352073.png)
 
-![image-20191210121200967](image-20191210121200967.png)
+Once you are happy with the payment schedule, click on *Commit*.
 
+?> NB: Once *Committed* an Instalment Schedule cannot be edited, it would need to be Credited out, so please be sure the schedule is correct.
+
+![image-20230420144437652](image-20230420144437652.png)
+
+A reminder will pop up, click *Yes* if no further changes are required. Click *No* if you want to make any further changes.
+
+![image-20230420144522996](image-20230420144522996.png)
+
+Once committed, the screen will update to show the confirmed schedule.
+
+![image-20230420144753104](image-20230420144753104.png)
+
+The schedule will now appear in the Orders page of the Account.
+
+![image-20230420144915282](image-20230420144915282.png)

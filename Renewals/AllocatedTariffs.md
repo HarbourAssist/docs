@@ -16,7 +16,7 @@ It is best to allocate the Tariff(s) to a boat at the point of setting up the ac
 
 To add a Tariff to a boat, from the Dashboard screen select the boat by clicking on the boat name or using the *Boats* tab.
 
-![image-20200106115405932](image-20200106115405932.png)
+![image-20220121083727994](image-20220121083727994.png)
 
 If you have used the Boats tab, select the boat by clicking on the boat name.
 
@@ -24,7 +24,7 @@ Now click on *Manage Tariffs*.
 
 ?> NB: If you want to view any current Tariffs, click on the *Tariffs & Occupancy* tab to see this.
 
-![image-20200106132601575](image-20200106132601575.png)
+![image-20220121083949194](image-20220121083949194.png)
 
 
 
@@ -36,18 +36,17 @@ Remember you can add more than 1 Tariff to a boat - each Tariff will show on a s
 
 Once you have selected the Tariffs, click *Save*.
 
-![image-20200106132759648](image-20200106132759648.png)
+![image-20220121085210502](image-20220121085210502.png)
 
 The Tariffs that have been allocated to the boat are now listed in the *Allocated Tariffs* section.
 
-![image-20200106132923659](image-20200106132923659.png)
+![image-20220121085331999](image-20220121085331999.png)
 
 
 
 ## Removing Tariffs from a Boat
 
-To remove a Tariff from a boat, simply click on the *Remove* button - you will be prompted to confirm your action - click OK.
+To remove a Tariff from a boat, simply click on the *Remove* button - you will be prompted to confirm your action - click Yes.
 
-![image-20200106133034229](image-20200106133034229.png)
-
+![image-20220121085528233](image-20220121085528233.png)
 

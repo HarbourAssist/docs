@@ -12,28 +12,28 @@ A Tariff is how we refer to a product or service sold.  Each Tariff will have a 
 
 Each Tariff has a *Calculation Type* - these are there to avoid end-users having to perform manual calculations and therefore reduce the risk of human error.  There are many Calculation Types, but the most commonly used are - Single, Length Overall (LOA), Per Night, LOA Per Night - these are explained below.
 
-- **Single** - This should be used for Tariffs which have a price per item i.e. Laundry tokens, gas bottles etc. or if a berth/mooring is sold at a set price and is not dependent on the length of a craft.  When raising an order the quantity should be set for the number of items being purchased i.e. if 6 laundry tokens @ £2.80 each are required, the quantity of 6 should be selected and the price will be calculated 6 x £2.80 = £16.80.  Likewise for a berth/mooring with a set price of £5,500, the quantity of 1 should be selected and the price will be calculated 1 x £5,500 = £5,500.  
+- **Single** - This should be used for Tariffs which have a price per item i.e. Laundry tokens, gas bottles etc. or if a berth/mooring is sold at a set price and is not dependent on the length of a craft.  When raising an order the quantity should be set for the number of items being purchased i.e. if 6 laundry tokens @ £3.31 each are required, the quantity of 6 should be selected and the price will be calculated 6 x £3.31 = £19.84.  Likewise for a berth/mooring with a set price of £5,500, the quantity of 1 should be selected and the price will be calculated 1 x £5,500 = £5,500.  
 
-![image-20191218145908428](image-20191218145908428.png)
+![image-20220126162204543](image-20220126162204543.png)
 
 
 
-![image-20191218145723705](image-20191218145723705.png)
+![image-20220127145414823](image-20220127145414823.png)
 
 ?> NB. Some Tariffs can have variable prices and are therefore set at £0 - for these Tariffs the *Single* Calculation Type should be used - the quantity selected when raising an order should be 1 and this will then enable you to manually type in the total price to be charged.
 
-- **Length Overall (LOA)** - This calculation is used for Tariffs that are chargeable by the length of a craft i.e. the price of an annual Leisure Mooring is £239 per metre and the craft the order is being raised for is 15.6 metres in length - when raising the order the quantity of 1 should be selected, the system will automatically calculate the price of the mooring £239 x 15.6m = £3,728.40.  
+- **Length Overall (LOA)** - This calculation is used for Tariffs that are chargeable by the length of a craft i.e. here, the price of a 6 Month Winter Berthing  is £135.98 per metre and the craft the order is being raised for is 11 metres in length - when raising the order the quantity of 1 should be selected, the system will automatically calculate the price of the mooring £135.98 x 11m = £1,495.78.  
 
- ![image-20191218151656346](image-20191218151656346.png)
+ ![image-20220127132856142](image-20220127132856142.png)
 
 - **Per Night** - Mainly used for visiting craft - the Tariff is a per night cost i.e. it is £30 per night for a visitor mooring.  When raising an Order the dates for the period of the stay should be selected from the calendar - this will show the number of nights that will be charged for - then the quantity of 1 should be selected.  The system will automatically calculate the price from the number of nights.
 
 
- ![image-20191219131552663](image-20191219131552663.png)
+ ![image-20220127145834927](image-20220127145834927.png)
 
 - **LOA Per Night** - Again this is mainly used for visiting craft, but the Tariff is calculated per night x the length of the craft.  When raising an Order the dates for the period of the stay should be selected from the calendar - this will show the number of nights that will be charged for - then the quantity of 1 should be selected.  The system will automatically calculate the price from the number of nights x the length of the craft.
 
-![image-20191218154116618](image-20191218154116618.png)
+![image-20220127151615217](image-20220127151615217.png)
 
 
 
@@ -43,15 +43,15 @@ The ability to create a new *Tariff* is permission based; the *Permission* requi
 
 From the *Home* page select *Administration*.
 
-![image-20191218154746722](image-20191218154746722.png)
+![image-20220127151739067](image-20220127151739067.png)
 
 Then select *Tariffs*.
 
-![image-20200820142417044](image-20200820142417044.png)
+![image-20220127151826954](image-20220127151826954.png)
 
 Click on *New Tariff*.
 
-![image-20200820142601852](image-20200820142601852.png)
+![image-20220127151915353](image-20220127151915353.png)
 
 Complete the information required; the following tips will help:-
 
@@ -67,11 +67,11 @@ Complete the information required; the following tips will help:-
 
 Completion of all the other cells is optional.
 
-![image-20200820142737485](image-20200820142737485.png)
+![image-20220127152059142](image-20220127152059142.png)
 
 When the information has been entered, click on *Save*.
 
-![image-20200820142931831](image-20200820142931831.png)
+![image-20220127152411682](image-20220127152411682.png)
 
 The next stage is to add the *Tariff* to the relevant *Pricebooks* and *Order Types*.
 
@@ -87,9 +87,9 @@ Pricebooks exist in order to allow different Sites to have different prices for 
 
 The Pricebook you wish to use should be selected from the Tariff Selection page when raising an Order.
 
-![image-20191218154557027](image-20191218154557027.png) 
+![image-20220127152945273](image-20220127152945273.png) 
 
-Pricebooks can also be set for a period of time i.e. the Pricebook for the calendar year of 2019 should be used for Orders during that period.  A new Pricebook can be created, by Cloning the existing one, for the calendar year of 2020 with revised prices - this could be an across board increase of 2% for instance. This enables annual pricing changes to be released in a controlled manner.
+Pricebooks can also be set for a period of time i.e. the Pricebook for the calendar year of 2021 should be used for Orders during that period.  A new Pricebook can be created, by Cloning the existing one, for the calendar year of 2022 with revised prices - this could be an across board increase of 2% for instance. This enables annual pricing changes to be released in a controlled manner.
 
 ?> For more information about Cloning a Pricebook click [here](AccountsOrdersPayments/TariffsPricebooks?id=cloning-a-pricebook.md).
 
@@ -101,19 +101,19 @@ Pricebooks for previous years can be archived, but will still be held on the sys
 
 To create a new *Pricebook* from the *Home* page select *Administration*.
 
-![image-20191218154746722](image-20191218154746722.png)
+![image-20220127153135718](image-20220127153135718.png)
 
 Then select *Pricebooks*.
 
-![image-20191218154839926](image-20191218154839926.png)
+![image-20220127153216986](image-20220127153216986.png)
 
-Click on *New*.
+Click on *New Pricebook*.
 
-![image-20200820164031071](image-20200820164031071.png)
+![image-20220127153300868](image-20220127153300868.png)
 
-Give the *Pricebook* a name and click *Add*.
+Give the *Pricebook* a name and click *Save*.
 
-![image-20200820164125755](image-20200820164125755.png)
+![image-20220127153413332](image-20220127153413332.png)
 
 Your *Pricebook* has now been created in *Draft*.
 
@@ -121,11 +121,11 @@ The next step is to add the *Tariffs* to the *Pricebook*.
 
 ?> For guidance about Adding a Tariff to a Pricebook click [here](AccountsOrdersPayments/TariffsPricebooks?id=adding-and-removing-tariffs-from-pricebooks.md).
 
-![image-20200820164334240](image-20200820164334240.png)
+![image-20220127153558438](image-20220127153558438.png)
 
 Once the *Tariffs* have been added the *Pricebook* can be left in *Draft* and then at the relevant time (if the Pricebook is seasonal for instance) you can change the *Status* of the *Pricebook* from draft to *Published* and *Enable* it for the *Site(s)* where it should be available for selection.
 
-![image-20200820164441069](image-20200820164441069.png)
+![image-20220127153744991](image-20220127153744991.png)
 
 
 
@@ -135,43 +135,43 @@ The easiest way to create a *Pricebook* to apply any increases year on year is t
 
 To clone a *Pricebook* from the *Home* page select *Administration*.
 
-![image-20191218154746722](image-20191218154746722.png)
+![image-20220127153837174](image-20220127153837174.png)
 
 The click on *Pricebooks*.
 
-![image-20191218154839926](image-20191218154839926.png)
+![image-20220127153915149](image-20220127153915149.png)
 
 Click on the *Actions* button of the *Pricebook* you want to clone and select *Clone* from the dropdown list.
 
-![image-20200821104815485](image-20200821104815485.png)
+![image-20220127154103091](image-20220127154103091.png)
 
 Give the new *Pricebook* a name and enter the % increase that you wish to apply to the *Tariffs*.
 
 ?> NB: The % increase will be applied to all tariffs, so some manual adjustment is inevitable.  Enter the % increase that applies to the majority of the tariffs so that fewer adjustments are necessary.  If the majority of the tariffs are staying the same enter 0.
 
-![image-20200821104959076](image-20200821104959076.png)
+![image-20220127154306899](image-20220127154306899.png)
 
 The *Pricebook* will be created in Draft; click on the *Draft* button to view the *Pricebook*.
 
 ?> NB: You may need to refresh your page for it to appear.
 
-![image-20200821105555201](image-20200821105555201.png)
+![image-20220127154551259](image-20220127154551259.png)
 
 To *View/Edit* the *Pricebook* click on the *Name* or use the *View/Edit* option from the *Actions* dropdown list. 
 
-![image-20200821110251044](image-20200821110251044.png)
+![image-20220127154644006](image-20220127154644006.png)
 
 Now you can review your Tariffs and make any necessary adjustments to the prices - sometimes companies prefer to round prices up/down to the nearest £1 for example.
 
 Click on the *Tariffs* tab.
 
-![image-20200821110546097](image-20200821110546097.png)
+![image-20220127154742549](image-20220127154742549.png)
 
 Click on the Gross cost to amend.
 
 ?> NB: The prices displayed are the Gross cost, so include the VAT at the rate set against the Tariff.
 
-![image-20200821143927448](image-20200821143927448.png)
+![image-20220127154916288](image-20220127154916288.png)
 
 
 
@@ -181,29 +181,29 @@ Pricebooks can be managed so that they appear to Users for selection at the appr
 
 Access your Pricebooks by clicking on *Pricebooks* within *Administration*.
 
-![image-20191218154839926](image-20191218154839926.png)
+![image-20220127155045281](image-20220127155045281.png)
 
 By default, this page will display just the Published Pricebooks, but you can select to see Pricebooks with a different status by clicking on the blue tiles.
 
 ?> NB:  The tile will show in a darker blue if selected.
 
-![image-20200821151457190](image-20200821151457190.png)
+![image-20220127155147653](image-20220127155147653.png)
 
 You can change the status of a Pricebook by clicking on the *Actions* button and selecting from the dropdown list.
 
-![image-20200821151809234](image-20200821151809234.png)
+![image-20220127155315844](image-20220127155315844.png)
 
 Or you can open the Pricebook (by clicking on its name) to manage it in more detail.  Here you can change the status and also enable/disable it for different Sites and make it the Default Pricebook for a site(s).
 
 ?> NB: If a Pricebook is enabled for a Site it will appear for selection, but the system will always show the Default Pricebook initially, so make sure the Default one is the one that is most used (ie. the one for the current year etc).
 
-![image-20200821151937474](image-20200821151937474.png)
+![image-20220127155447122](image-20220127155447122.png)
 
 You can also manage which Pricebooks are available for which Sites from within the Site details.
 
 ?> For more information about Sites click [here](Administration/Sites.md).
 
-![image-20200821152435815](image-20200821152435815.png)
+![image-20220127160604502](image-20220127160604502.png)
 
 
 
@@ -213,40 +213,40 @@ Tariffs can the added and removed from Pricebooks easily - this may be necessary
 
 To add or remove a Tariff, from the *Home* page select *Administration*.
 
-![image-20191218154746722](image-20191218154746722.png)
+![image-20220127160655145](image-20220127160655145.png)
 
 Then select *Pricebooks*
 
-![image-20191218154839926](image-20191218154839926.png)
+![image-20220127155045281](image-20220127155045281.png)
 
 On the line of the Pricebook you wish to edit, from the *Actions* key select *View/Edit*.
 
- ![image-20191218162838010](image-20191218162838010.png)
+ ![image-20220127154644006](image-20220127154644006.png)
 
 Then click on the *Tariffs* tab.
 
-![image-20191218162939655](image-20191218162939655.png) 
+![image-20220127160912390](image-20220127160912390.png) 
 
 Select the appropriate Tariff category from the drop down list.
 
-![image-20191218163138771](image-20191218163138771.png)
+![image-20220127161046874](image-20220127161046874.png)
 
  This will show all the Tariffs within that category.
 
-![image-20191218163919002](image-20191218163919002.png)
+![image-20220127161221145](image-20220127161221145.png)
 
 If a Tariff is already included in the Pricebook it will show a red icon next to it - to remove this Tariff from the Pricebook click on this icon.
 
-![image-20191218163952712](image-20191218163952712.png)
+![image-20220127161327832](image-20220127161327832.png)
 
 To add a new Tariff click on the green + icon.
 
-![image-20191218164027083](image-20191218164027083.png)
+![image-20220127161407984](image-20220127161407984.png)
 
 Enter the Gross cost of the Tariff and click *Save*.
 
- ![Query Editor](img/Tariffs&pricebooks16.png)
+ ![image-20220127161501900](image-20220127161501900.png)
 
 The Tariff will now show in the Included Pricebook Entries list on the right hand side of the page.
 
-![image-20191218164326824](image-20191218164326824.png)
+![image-20220127161705275](image-20220127161705275.png)

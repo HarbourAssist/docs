@@ -22,15 +22,15 @@ To protect against brute-force attacks, if a user uses an incorrect username/pas
 
 From the *Home* page select *Administration*.
 
-![image-20200824120133556](image-20200824120133556.png)
+![image-20220118140800825](image-20220118140800825.png)
 
 Then select *Users*.
 
-![image-20200824120306325](image-20200824120306325.png)
+![image-20220118141002067](image-20220118141002067.png)
 
 Click *Edit/View* on the relevant User line.
 
-![image-20200824120407125](image-20200824120407125.png)
+![image-20220118141208137](image-20220118141208137.png)
 
 Then Click to unlock the *User*.
 

@@ -1,5 +1,11 @@
 # Getting Help & Support
 
+## Support Widget video
+
+<a href="https://vimeo.com/819481504" target="_blank"> <img src="https://i.vimeocdn.com/filter/overlay?src0=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F1658448322-25339c2a7c2cd7d724b388538522fb6bc389215a675bf39712b132533f236efc-d_295x166&src1=http%3A%2F%2Ff.vimeocdn.com%2Fp%2Fimages%2Fcrawler_play.png" /> </a>
+
+## Support Widget Documentation
+
 If you can't find what you are looking for in this Help Documentation please send us a *Help Ticket*  by clicking on the orange question mark that appears in the bottom left corner of the screen. 
 
 ![image-20200819160826102](image-20200819160826102.png)

@@ -29,23 +29,7 @@ Each Occupancy has an *Occupancy Type*, which, above providing reportability on 
 - The default Start & End Date.
 - Which assets the occupancy can be placed on.
 - Visual information for the calendar such as icon and colour.
+- Whether the Asset can be released to another Occupancy Type.
 
-To create a new *Occupancy Type* or amend an existing one, from the Home page select *Administration*.
+?> For instruction on how to create a new Occupancy Type click [here](Administration/OccupancyTypes).
 
-![image-20191223143620793](image-20191223143620793.png)
-
-Then select *Occupancy Types*.
-
-![image-20191223143720942](image-20191223143720942.png)
-
-Select *New* to create a new Occupancy Type.
-
-![image-20191223144408814](image-20191223144408814.png)
-
-Give the *Occupancy Type* a name and click *Save*.
-
-![image-20191223144540932](image-20191223144540932.png)
-
-Now you can complete the set up of the *Occupancy Type* by adding all the configuration:-
-
-![image-20191223144840441](image-20191223144840441.png)

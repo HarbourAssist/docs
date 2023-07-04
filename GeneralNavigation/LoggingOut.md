@@ -2,11 +2,11 @@
 
 It is good practice to log out of the Harbour Assist Programme at the end of the working day - to do this select the drop down arrow at the top of the screen, next to your log in name.
 
-![Query Editor](img/loggingout1.png)
+![image-20220118140115459](image-20220118140115459.png)
 
 Select *Sign out*
 
-![Query Editor](img/loggingout2.png)
+![image-20220118140313341](image-20220118140313341.png)
 
 This will take you back to the Log In screen.
 

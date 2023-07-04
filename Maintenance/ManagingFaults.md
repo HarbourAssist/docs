@@ -1,13 +1,9 @@
 
 # Managing Faults #
 
-From the *Home* page, select *Asset Tools*.
+From the *Asset Tools* on the Home page, select *Fault Manager*.
 
-![image-20200506152946856](image-20200506152946856.png)
-
-Now click on *Fault Manager*.
-
-![image-20200511165945039](image-20200511165945039.png)
+![image-20211130130059649](image-20211130130059649.png)
 
 The *Fault Manager* screen shows a summary of all Open and Resolved Faults for each site based on the severity of the Fault.
 

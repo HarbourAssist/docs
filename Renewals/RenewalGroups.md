@@ -30,14 +30,14 @@ It is best to assign a boat to a *Renewal Group* at the point of setting up the 
 
 To assign a *Renewal Group* to a boat, from the Dashboard screen select the boat by clicking on the boat name or using the *Boats* tab.
 
-![image-20200106115405932](image-20200106115405932.png)
+![image-20220121123505176](image-20220121123505176.png)
 
 If you have used the Boats tab, select the boat by clicking on the boat name.
 
 Select the *Renewal Group* by using the drop down options in either the *Set Renewal Group* or within the boat details itself.  
 
-![image-20200106115831750](image-20200106115831750.png)
+![image-20220121123921590](image-20220121123921590.png)
 
 Alternatively, you can set the *Renewal Group* from the *Tariffs & Occupancy* screen at the same time as Licensing the boat and allocating the Tariffs. 
 
-![image-20200106115957476](image-20200106115957476.png)
+![image-20220121124215521](image-20220121124215521.png)

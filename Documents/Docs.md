@@ -14,33 +14,31 @@ We've also integrated this into the ability to send docs to a docs tracking mail
 
 From the *Home* page select *Administration*.
 
-![image-20200817151505465](image-20200817151505465.png)
+![image-20220524163707932](image-20220524163707932.png)
 
 Then select *Document Types*.
 
-![image-20200817151608535](image-20200817151608535.png)
+![image-20220524163819884](image-20220524163819884.png)
 
 Click to create a *New* Document Type.
 
-![image-20200817151854260](image-20200817151854260.png)
+![image-20220524163908205](image-20220524163908205.png)
 
-Give the Document Type a name and complete the *Expiry Units* (using the dropdown options) and *Interval* if these are required.  Then click *Save*.
+Give the Document Type a name and complete the *Expiry Units* (using the dropdown options) and *Interval* if these are required.  
 
-![image-20200817152151695](image-20200817152151695.png)
+You can also add the *Mailbox Suffix* if you wish (see Overview above for details). When finished, click *save*
 
-Now you can add the *Mailbox Suffix* if you wish (see Overview above for details).
-
-![image-20200817155204848](image-20200817155204848.png)
+![Mailbox suffix](Mailbox%20suffix.png)
 
 ## Uploading a Document to an Account
 
 To upload a *Document* to an Account, select the *Docs* tab.
 
-![image-20200817160905960](image-20200817160905960.png)
+![image-20220524164955922](image-20220524164955922.png)
 
-Then click *New*.
+Then click ![image-20220524165112594](image-20220524165112594.png)
 
-![image-20200817162449055](image-20200817162449055.png)
+![image-20220524165157319](image-20220524165157319.png)
 
 Complete the following details on the pop-up screen:-
 
@@ -54,24 +52,24 @@ Complete the following details on the pop-up screen:-
 
 Then click on *Save*.
 
-![image-20200817162806178](image-20200817162806178.png)
+![image-20220524165424166](image-20220524165424166.png)
 
 The new Document will now show at the top of the list (they display in *Created On* order with the most recent at the top) and the if you have selected to *Replace Old Versions* they will be marked up accordingly.
 
-![image-20200817163613260](image-20200817163613260.png)
+![image-20220524165508127](image-20220524165508127.png)
 
 ## Document Expiry Reporting
 
 A list of expired or expiring documents can be viewed in the *Document Expiration Report*.  From the *Home* page click on *Reporting*.
 
-![image-20200817164650365](image-20200817164650365.png)
+![image-20220524165551123](image-20220524165551123.png)
 
 Then select *Document Expiration.
 
-![image-20200817164811199](image-20200817164811199.png)
+![image-20220524165645839](image-20220524165645839.png)
 
 Add filters to your report to drill down to the information you require.
 
 ?> NB. Details for any Documents that have already expired will show in Red.
 
-![image-20200817165015305](image-20200817165015305.png)
+![image-20220524165833154](image-20220524165833154.png)

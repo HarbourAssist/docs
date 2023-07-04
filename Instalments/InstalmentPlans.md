@@ -10,17 +10,23 @@ An Instalment Plan is a pre-configured template which can be used to generate in
 
 ## Creating an Instalment Plan
 
-Navigate to *Administration* > *Instalment Plans*
+From the Home Screen, go to *Administration*
 
-![image-20191101153303894](image-20191101153303894.png)
+![image-20230420141243992](image-20230420141243992.png)
+
+
+
+Next, go into *Instalment Plans*.
+
+![image-20230420141345897](image-20230420141345897.png)
 
 You will be taken to the list of existing plans, where you can view existing or create a new one.
 
-![image-20191101153600514](image-20191101153600514.png)
+![image-20230420141455943](image-20230420141455943.png)
 
 Creating a new Instalment Plan will prompt you to enter:
 
-**Name:** The friendly name of the Plan - e.g. "12 Month Resdiential"
+**Name:** The friendly name of the Plan - e.g. "12 Month Residential"
 
 **Order Type:** The Order Type which will be used when generating the monthly Orders.
 
@@ -31,14 +37,20 @@ Creating a new Instalment Plan will prompt you to enter:
 - Quarterly: Tick Months 1, 4, 7, 10.
 - Split over first 10 months of year: Tick Months 1-10.
 
-![image-20200814123334237](image-20200814123334237.png)
+![image-20230420141551944](image-20230420141551944.png)
 
 Now you can add the Tariffs that are available to use for the Instalment Plan (often different charges are applied if a customer is paying over instalments, so you don't want a User to be able to select a Tariff that is for a single payment charge).
 
 Click on the *Tariffs* tab.
 
-![image-20200814123433904](image-20200814123433904.png)
+![image-20230420141651025](image-20230420141651025.png)
 
 Select the Tariffs by filtering to a *Tariff Category* and then clicking the *Add* button.
 
-![image-20200814130150771](image-20200814130150771.png)
+Any selected Tariffs will transfer from the left, to the right hand side. If you select any in error, simply click on the *Remove* button and the Tariff will return to the left.
+
+![image-20230420141903954](image-20230420141903954.png)
+
+In the Communications Tab, you can compile an email template, writing the body of the email and using the formatting tools and available merge fields.
+
+![image-20230420142427370](image-20230420142427370.png)

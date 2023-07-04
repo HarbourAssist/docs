@@ -4,7 +4,7 @@ The *Asset Tile* view is a snapshot view of the current days occupancy.
 
 From the *Home* page, select *Asset Tiles*.
 
-![image-20191223141352139](image-20191223141352139.png)
+![image-20220211141820920](image-20220211141820920.png)
 
 You can filter the tiles shown by using the blue buttons & options at the top of the screen.
 
@@ -16,7 +16,7 @@ The *Asset Tiles* will appear in Red, Yellow or Green, this is controlled by the
 
 They *Asset Tiles* will also show information about who is currently on that Asset, when they are due to depart and if any money is owed.
 
-![image-20191223142234703](image-20191223142234703.png)
+![image-20220211142119247](image-20220211142119247.png)
 
 By clicking on a tile shown in red or yellow you will be shown all the information relating the the occupancy or occupancies on that asset.
 
@@ -26,7 +26,7 @@ By clicking on a tile shown in red or yellow you will be shown all the informati
 - The payment status of the order,
 - The cost of the order.
 
-![image-20191223142816211](image-20191223142816211.png)
+![image-20220211142301145](image-20220211142301145.png)
 
 
 ![image-20191223142920615](image-20191223142920615.png)

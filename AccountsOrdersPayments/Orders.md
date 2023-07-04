@@ -12,19 +12,20 @@ Each Order is assigned a single **Order Type**, and the **Order Type** will dete
 
 - The *Tariffs* available for composing the Order (see Tariffs and Pricebooks)
 - The Invoice/Receipt template format
+- Whether an Occupancy should be created and what type of Occupancy
 - Custom Order-level data capture.
 
 ?> More documentation on Tariffs and Pricebooks can be found [here](AccountsOrdersPayments/TariffsPricebooks)
 
-**Order Types** are bespoke to each business using the Harbour Assist system and can be set up using the **Administration** tile from the **Home** page.  See below for more information on setting **Order Types**. 
+**Order Types** are bespoke to each business using the Harbour Assist system and can be set up using the **Administration** tile from the **Home** page.  See below for more information on **Order Types**. 
 
-?> More documentation on Order Types can be found [here](Administration/OrderTypes)
+?> For instructions on how to create an Order Type click [here](Administration/OrderTypes)
 
 ## Viewing an Accounts Orders Tab
 
 The *Orders* tab on an Account is where you will find all the accounts financial transactions.
 
-![image-20200706161036770](image-20200706161036770.png)
+![image-20220121141409090](image-20220121141409090.png)
 
 
 
@@ -32,15 +33,15 @@ The information contained within the Orders tab can be displayed in 2 different 
 
 You can select the different views by using the buttons on the right of the screen - the button of the currently selected view will display in a darker blue.
 
-![image-20200706161531400](image-20200706161531400.png)
+![image-20220121141512814](image-20220121141512814.png)
 
 ### Classic View
 
 This view will display transactions with Orders showing in the top part of the screen and Payments, credits & refunds showing in the bottom part of the screen.  Each section of the screen is paginated if there are a large number of transactions.
 
-![image-20200706162502853](image-20200706162502853.png)
+![image-20220121141631601](image-20220121141631601.png)
 
-![image-20200706162544047](image-20200706162544047.png)
+![image-20220121141721578](image-20220121141721578.png)
 
 ### History View
 
@@ -52,17 +53,17 @@ The History View displays all transactions in date order with the most recent at
 
 ?> NB: Draft orders and credit notes will not be included in the Balance figures; a dash will be displayed if the transaction is not included.
 
-![image-20200706163913865](image-20200706163913865.png)
+![image-20220121141943284](image-20220121141943284.png)
 
 ## Raising an Order
 
 To raise a new order, click on the **Order** button in the main toolbar on an Account.
 
-![image-20191219143103283](image-20191219143103283.png)
+![image-20220121142100595](image-20220121142100595.png)
 
 Alternatively, if you don't need to review the Account prior to raising an order, you can use the 'Quick Order' button that appears when you search for an Account.
 
-![image-20191219143339301](image-20191219143339301.png)
+![image-20220121142402325](image-20220121142402325.png)
 
 When you select **Order** you then need to select the **Order Type** - a list of **Order Types** and descriptions are shown and you select the relevant one by clicking on the tile.
 
@@ -70,37 +71,37 @@ When you select **Order** you then need to select the **Order Type** - a list of
 
 ?> More information about Cross-site Orders can be found [here](AccountsOrdersPayments/Orders?id=cross-site-orders-multi-site-operators-only.md)
 
-![image-20191219143530461](image-20191219143530461.png)
+![image-20220121142556917](image-20220121142556917.png)
 
-You will then be taken back to the **Orders** screen.  In the example we are raising an Order for a Residential mooring contract.  You can now select the contract period by choosing a start and end date (this will create the occupancy), attach the contract to an Asset and select the boat that the contract is for (if the Account has more than 1 boat on it).
+You will then be taken back to the **Orders** screen.  In the example we are raising an Order for a Residential berthing contract.  You can now select the contract period by choosing a start and end date (this will create the occupancy), attach the contract to an Asset and select the boat that the contract is for (if the Account has more than 1 boat on it).
 
 At the top of the screen you can see details about the order.  At this stage the order is still in draft status (see **Order Status** below).
 
-![image-20191219151639807](image-20191219151639807.png)
+![image-20220121143232265](image-20220121143232265.png)
 
 You now need to select the Tariffs that make up the Order - this will determine the price
 
-![image-20191219151738459](image-20191219151738459.png)
+![image-20220121143331968](image-20220121143331968.png)
 
 The Tariff Selection page will show all Tariffs available for this Order Type.  You can remove this filter to view all tariffs or you can narrow this down by selecting the category of Tariffs (green tiles) that you wish to choose from.
 
-![image-20191219152109389](image-20191219152109389.png)
+![image-20220121145628061](image-20220121145628061.png)
 
 Select the Tariff which you wish to charge by clicking on the *Quantity* button - if your Tariff has been set up as a Length Overall Tariff (this is noted in the *Calc* column) the price will automatically be calculated using the price per metre and the length of the boat.
 
 Once you are happy the correct price is being charged, select *Back to Order* at the top of the page.
 
-![image-20191219152347171](image-20191219152347171.png)
+![image-20220121145854638](image-20220121145854638.png)
 
 Your **Order** is now created in Draft status.
 
-![image-20191219152500252](image-20191219152500252.png)
+![image-20220121150032568](image-20220121150032568.png)
 
 By clicking on the blue *Invoice* button you can download to print, email or SMS the order to the customer.
 
 ?> More information about sending an order by SMS (Quick Pay) can be found [here](AccountsOrdersPayments/CustomerPortal?id=quick-pay.md)
 
-![image-20200708142432171](image-20200708142432171.png)
+![image-20220121150117426](image-20220121150117426.png)
 
 ## Cross-site Orders (Multi-site operators only)
 
@@ -110,7 +111,7 @@ To deal with this, you can choose which Site the order should be associated with
 
 When creating an order, if the Account is associated with different site to your own default site, at the top of the Order Types screen you will have the option to select which site you want to use.
 
-![image-20200708101115113](image-20200708101115113.png)
+![image-20220121153842711](image-20220121153842711.png)
 
 When you select the site that the order needs to be associated with, only the Order Types that are available for use at that site will show.
 
@@ -118,7 +119,7 @@ Select the relevant Order Type to create the Order.
 
 On the draft Order that it clearly says that a cross-site order has been created.
 
-![image-20200708101526358](image-20200708101526358.png)
+![image-20220121154023439](image-20220121154023439.png)
 
 You can now continue to create the Order in the usual way.
 
@@ -130,11 +131,11 @@ When you add the tariffs to the Order, the tariffs displayed will be for the Sit
 
 In the Reporting section, there is a Report that shows all Cross-site Orders.  From the *Home* screen click on *Reporting*.
 
-![image-20191223111112283](image-20191223111112283.png)
+![image-20220121154740232](image-20220121154740232.png)
 
 Then select the Cross-Site Orders report.  The report has various filters that you can apply including setting a date range.
 
-![image-20200708102604796](image-20200708102604796.png)
+![image-20220121154916727](image-20220121154916727.png)
 
 
 
@@ -156,16 +157,16 @@ Harbour Assist provides the ability to clone an order; this could be particularl
 
 An order can be cloned by either clicking on the *Actions* button on the relevant order line and then *Clone*,
 
-![image-20200706153858914](image-20200706153858914.png)
+![image-20220121155132602](image-20220121155132602.png)
 
 or, 
 
 Using the *Clone* button from within the order you wish to clone.
 
-![image-20200706154033350](image-20200706154033350.png)
+![image-20220121155314370](image-20220121155314370.png)
 
 You will be asked to confirm you wish to clone the order - select Yes if you wish to continue.
 
-![image-20200706154504263](image-20200706154504263.png)
+![image-20220121155228446](image-20220121155228446.png)
 
 When you select Yes, you will be taken into the new draft order.  You can now make any amendments required.

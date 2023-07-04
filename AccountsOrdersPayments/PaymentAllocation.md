@@ -6,15 +6,15 @@ Payments need to be correctly allocated in Harbour Assist for a number of reason
 - To ensure that debt reporting and aging is accurate,
 - To ensure that the information shown on the customers' online portal is correct and in line with their expectations.
 
-Payments should be fully allocated to an invoice wherever possible at the time of taking the payment (see below), however there may be occasions when this is not possible and it is left on the account as an unnallocated payment.
+Payments should be fully allocated to an invoice wherever possible at the time of taking the payment (see below), however there may be occasions when this is not possible and it is left on the account as an unallocated payment.
 
 ?> More documentation [here](AccountsOrdersPayments/Payments)
 
 The *Reporting* section of Harbour Assist has an *Unallocated Payments* report so that these are easily identifiable.
 
-![image-20191223111112283](image-20191223111112283.png)
+![image-20220126134555948](image-20220126134555948.png)
 
-![image-20191223111159647](image-20191223111159647.png)
+![image-20220126134709858](image-20220126134709858.png)
 
 
 
@@ -29,7 +29,7 @@ There are 2 ways to allocate an unallocated payment.
 
 Click on the *Tools* button in the top Toolbar of an Account, and then *Allocate Payments*.
 
-![image-20191223112442524](image-20191223112442524.png)
+![image-20220126134831374](image-20220126134831374.png)
 
 
 
@@ -37,21 +37,21 @@ Click on the *Tools* button in the top Toolbar of an Account, and then *Allocate
 
 Click on the *Actions* button of any unallocated payment (unallocated are shaded in red), and then *Allocate*.
 
-![image-20191223115300521](image-20191223115300521.png)
+![image-20220126153730250](image-20220126153730250.png)
 
 Either route will take you to the same *Allocate Payments* screen which will display all unallocated payments and all unpaid orders.
 
-![image-20191223112835071](image-20191223112835071.png)
+![image-20220126153852134](image-20220126153852134.png)
 
 Select a payment by clicking anywhere on the payment line. This will highlight the payment in green.  Then click *Allocate* on Order you want to allocate the payment to. 
 
-![image-20191223113541736](image-20191223113541736.png)
+![image-20220126153939280](image-20220126153939280.png)
 
 If you want to allocate the whole of the payment to this order you can now just confirm your selection, however if you only want to allocate some of the payment to this order, you can change the allocation amount.  The remaining amount will be left available to allocate to another order.
 
-![image-20191223113747238](image-20191223113747238.png)
+![image-20220126154053398](image-20220126154053398.png)
 
 Repeat this until all the payments are allocated.  You will then be notified there are no more available funds to allocate.
 
-![image-20191223114019909](image-20191223114019909.png)
+![image-20220126154138900](image-20220126154138900.png)
 

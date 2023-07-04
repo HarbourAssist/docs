@@ -16,29 +16,33 @@ There are 3 ways to record and take a payment in Harbour Assist:-
 
 This can be found in the Toolbar at the top of an Account.
 
-![image-20191220151151933](image-20191220151151933.png)
+![image-20230419132611093](image-20230419132611093.png)
 
 If you access the *New Payment* screen from the *Take Payment* route, the *Amount* will default to the total outstanding amount of draft and confirmed orders on the Account.
 
 ?> NB: It will not include any *Future Orders* that have been created as part of an Instalment Plan for example.  You can click on the toggle button to show future orders.
 
-![image-20191220152421660](image-20191220152421660.png)
+![image-20230419133204775](image-20230419133204775.png)
 
 
 
-![image-20191220152643374](image-20191220152643374.png)
+![image-20230419133320690](image-20230419133320690.png)
 
 ### Using the Actions Button on the Orders Screen or Pay Now from within an Order
 
 If you access the *New Payment* screen from either of these routes the *Amount* will default to the amount owing on that particular Order.
 
-![image-20191220154141285](image-20191220154141285.png)
+#### Actions Button:
 
-![image-20191220154244830](image-20191220154244830.png)
+![image-20230419133603080](image-20230419133603080.png)
 
-![image-20191220154352168](image-20191220154352168.png)
+![image-20230419133657569](image-20230419133657569.png)
 
-![image-20191220154512223](image-20191220154512223.png)
+#### Within an Order:
+
+![image-20230419133919374](image-20230419133919374.png)
+
+![image-20230419134010944](image-20230419134010944.png)
 
 You still have the option to include other orders and to show future orders.
 
@@ -46,41 +50,65 @@ Whichever route you have used, once you are at the New Payment screen and the am
 
 First click on the appropriate payment method on the blue tiles at the top of the screen.  
 
-![image-20191220155002488](image-20191220155002488.png)
+![image-20230419134058515](image-20230419134058515.png)
 
 Depending on the payment method you may be prompted to enter a code, reference or cheque number etc. 
 
-![image-20191220155346088](image-20191220155346088.png)
+![image-20230419140817003](image-20230419140817003.png)
 
 Complete this and then click *Save & Pay*.
 
-![image-20191220155522461](image-20191220155522461.png)
+![image-20230419140859631](image-20230419140859631.png)
 
 Now you have the option to either print or email a receipt to the customer.  There are 2 types of receipt - a Payment Receipt and an Order Receipt.  A Payment Receipt is a more generalised receipt, the Order Receipt gives more details of the Order that has been paid.  If a payment has been taken for more than 1 Order an Order Receipt will show for each individual Order (so in this case you may be better to use the Payment Receipt).  
 
-![image-20191220162859056](image-20191220162859056.png)
+![image-20230419140942443](image-20230419140942443.png)
 
 ## Taking a Part Payment on an Order
 
-There may be times it is agreed a customer can part pay an order.  Part payments cannot be made by the customer using their on-line portal.
+There may be times it is agreed a customer can part pay an order.  *Part payments cannot be made by the customer using their on-line portal*.
 
-Access the *New Payment* screen by any of the 3 routes discribed above, then manually enter the amount that is being paid in to the *Amount* cell - you will need to overtype the auto populated amount.
+Access the *New Payment* screen by any of the 3 routes described above, then manually enter the amount that is being paid in to the *Amount* cell - you will need to overtype the auto populated amount.
 
-The check the *Allocate* box for the order that the part payment is to be allocated against.  If it is for more than 1 order, check the *Allocate* box and enter the Allocation Amount into the *Allocation* cell for each order.
+Then check the *Allocate* box for the order that the part payment is to be allocated against.  If it is for more than 1 order, check the *Allocate* box and enter the Allocation Amount into the *Allocation* cell for each order.
 
-![image-20191223100149802](image-20191223100149802.png)
+![image-20230419141449785](image-20230419141449785.png)
+
+Alternatively, you can ask the system to automatically allocate the payment for you. 
+
+Using the Auto-Allocate option, you can direct the system to prioritise allocations against the newest, oldest or biggest orders on the account.
+
+![image-20230419141819103](image-20230419141819103.png)
 
 Select the *Payment Method*, then click *Save & Pay*.
 
-![image-20191223105749647](image-20191223105749647.png)
+![image-20230419141929001](image-20230419141929001.png)
 
 As the amount paid isn't paying an Order in full, the only receipt option is the Payment Receipt.  This can be printed or emailed to the customer.
 
-![image-20191223110029428](image-20191223110029428.png)
+![image-20230419142008447](image-20230419142008447.png)
 
 Clicking on *Back to Account* will take you to the *Orders* overview for the Account.  Here you will see the part payment against the Order.
 
-![image-20191223110308477](image-20191223110308477.png)
+![image-20230419142123641](image-20230419142123641.png)
+
+## Using the Cash Calculator 
+
+Mental arithmetic is not everyone's strong point, so to help Users calculate any change required when a customer pays in cash, we have a calculator tool to support.
+
+When the Payment Method of *Cash* is selected, a calculator will appear on the Payment page.
+
+![image-20230419155029832](image-20230419155029832.png)
+
+Click on the Calculator, the system already knows the amount required from the order, so the User needs to enter the cash value the customer is paying with, and the calculator will display the change required.
+
+![image-20230419155254958](image-20230419155254958.png)
+
+Once the change has been given, select done. The User will then be returned to the payment page to complete the transaction.
+
+The Payment screens displays the change required in case the User needs a reminder, and the User can also make a note to confirm the transaction details.
+
+![image-20230419155634266](image-20230419155634266.png)
 
 
 
@@ -90,19 +118,19 @@ Payments can be taken without an Order being raised - a deposit, for example, th
 
 To take a payment that is not associated with an order, use the *Take Payments* button.
 
-![image-20191220151151933](image-20191220151151933.png)
+![image-20230419142304912](image-20230419142304912.png)
 
 Select the payment method, enter the amount being paid and then select *Save & Pay*.
 
-![image-20191220164855339](image-20191220164855339.png)
+![image-20230419142324291](image-20230419142324291.png)
 
 As the amount paid isn't allocated to any Orders, the only receipt option is the Payment Receipt.  This can be printed or emailed to the customer.
 
-![image-20191220165026141](image-20191220165026141.png)
+![image-20230419142424934](image-20230419142424934.png)
 
 The Account will show as being in credit by the amount paid, and the payment will be unallocated. 
 
-![image-20191220165158428](image-20191220165158428.png)
+![image-20230419142612798](image-20230419142612798.png)
 
 
 
@@ -114,7 +142,7 @@ Using the Virtual Terminal to take card payments over the phone eliminates need 
 
 Using the normal routes to take a payment, when at the New Payment screen, click *Virtual Terminal*.
 
-![image-20200520151642393](image-20200520151642393.png)
+![image-20230419144236539](image-20230419144236539.png)
 
 Once you have ensured the payment amount and the order allocation is correct click on *Start Virtual Terminal Payment*. This will open the Virtual Terminal.
 
@@ -124,7 +152,7 @@ Now you can enter the card details.
 
 The ‘Name on Card’ will default to the customers name as it appears on their Harbour Assist account – this can be changed if their name appears differently on their card.
 
-![image-20200520151839634](image-20200520151839634.png)
+![image-20220126133505687](image-20220126133505687.png)
 
 Once you have entered the card details click *Next*.
 
@@ -136,7 +164,7 @@ Now you need to enter the address that the card is registered to – again, this
 
 When the address has been entered click *Next*.
 
-Customer can store their cards to make future payments quicker and easier (very similar to when you store a card on Amazon). Cards are stored within Paysafes Vaulted Card Storage and not within Harbour Assist, so they are 100% secure and the details cannot be accessed by Harbour Assist Users.
+Customers can store their cards to make future payments quicker and easier (very similar to when you store a card on Amazon). Cards are stored within Paysafes Vaulted Card Storage and not within Harbour Assist, so they are 100% secure and the details cannot be accessed by Harbour Assist Users.
 
 Ask the customer if they would like to store their card, then select *Yes* or *No* as appropriate.
 
@@ -150,13 +178,13 @@ If you clicked Yes to confirm the transaction, you will be taken to the normal P
 
 ### Stored Cards
 
-Customer can store their cards to make future payments quicker and easier (very similar to when you store a card on Amazon). Cards are stored within Paysafes Vaulted Card Storage and not within Harbour Assist, so they are 100% secure and the details cannot be accessed by Harbour Assist Users.
+Customer can store their cards to make future payments quicker and easier (very similar to when you store a card on Amazon). Cards are stored within Paysafe's Vaulted Card Storage and not within Harbour Assist, so they are 100% secure and the details cannot be accessed by Harbour Assist Users.
 
 If a customer has already stored a card (either when they made a previous phone payment or they stored it themselves in their customer Portal), you will see the following options when taking a Virtual Terminal payment.
 
 Select *Virtual Terminal* and then *Start Virtual Terminal Payment*.
 
-![image-20200520152250886](image-20200520152250886.png)
+![image-20230419144256917](image-20230419144256917.png)
 
 Ask the customer if he would like to use one of his stored cards by quoting the *Ending in* number. If he does wish to use a stored card click on *Select Card*. If a new card is to be used click on *+ Add New Card* (this will revert you to take the card details in the normal way).
 
@@ -217,7 +245,7 @@ Ensure the card reader is switched on.
 
 On the New Payment screen select the *Handpoint* payment method, check the amount and then click on *Save & Pay*.
 
-![image-20200708164208397](image-20200708164208397.png)
+![image-20230419144453604](image-20230419144453604.png)
 
 On the pop-up window select *Reopen Handpoint*.
 
@@ -239,4 +267,4 @@ If you are using an iPad to take the payment, at the end of the transaction the 
 
 The Payment Confirmation page will display and you can either print or email the receipt to the customer.
 
-![image-20200708164527838](image-20200708164527838.png)
+![image-20230419145053639](image-20230419145053639.png)

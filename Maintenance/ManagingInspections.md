@@ -1,12 +1,8 @@
 # Managing Inspections #
 
-From the *Home* page, select *Asset Maintenance*.
+From the *Asset Tools* on the Home page, select *Inspection Manager*.
 
-![image-20200506152946856](image-20200506152946856.png)
-
-Now click on *Inspection Manager*.
-
-![image-20200506153045235](image-20200506153045235.png)
+![image-20211130130307224](image-20211130130307224.png)
 
 The *Inspection Manager* screen shows a summary of all Open and Completed Inspections for each Site, Inspection Regime and Inspection Type.
 

@@ -8,19 +8,29 @@ Currently supported:-
 
 **Sage 200** - Customer Transactions
 
+**Sage Intacct** - Receivables, Invoices. 
+
 **Xero** -  Invoices and Credit notes. 
 
-To export data, from the *Home* screen select *Financial Tools*.
+**Technology One** -  Invoices.
 
-![image-20200429135740383](image-20200429135740383.png)
+**MYOB Account Right** -  Sales, Items (Tariffs) and Card (Accounts) Exports.
 
-Then select *Export to Accounts*.
+**Quickbooks Online** -  Invoices, Credit notes and Sales Receipts.
 
-![image-20200429135841103](image-20200429135841103.png)
+**Access Dimensions** - HAInvoices, HACredits, HAReceipts.
+
+To export data, from the *Home* screen go to *Financial Tools*.
+
+![image-20220126163815490](image-20220126163815490.png)
+
+From the drop down list, select *Accounting System Exports*.
+
+![image-20220126164113224](image-20220126164113224.png)
 
 Now select the appropriate account package.
 
-![image-20200429140017269](image-20200429140017269.png)
+![image-20220126164434855](image-20220126164434855.png)
 
 Select the Site and From/To dates.
 
@@ -30,6 +40,6 @@ A warning will show if you are selecting dates after the last Lockdown Date or i
 
 Click *Download*
 
-![image-20200429140214734](image-20200429140214734.png)
+![image-20220126164618141](image-20220126164618141.png)
 
 This will create and download an Excel document that you can open at the bottom of your screen.

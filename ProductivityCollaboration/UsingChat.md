@@ -8,11 +8,11 @@ Harbour Assist has a *Chat* function, which is particularly useful in the early 
 
 To open *Chat*, click on the icon at the top of the screen.
 
-![image-20200515092710942](image-20200515092710942.png)
+![image-20220118150319973](image-20220118150319973.png)
 
 This will open the *Chat* on the right hand side of your screen.
 
-![image-20200515093251714](image-20200515093251714.png)
+![image-20220118150708273](image-20220118150708273.png)
 
 Type your message in the *Type your message here* box and press enter - **remember this is visible to everyone**.
 
@@ -20,11 +20,11 @@ Type your message in the *Type your message here* box and press enter - **rememb
 
 You can leave *Chat* open, although this may restrict the view of other items on your screen, or you close the window by either clicking the arrow at the top or on the *Chat* symbol.
 
-![image-20200515112944827](image-20200515112944827.png)
+![image-20220118150925072](image-20220118150925072.png)
 
 If you have closed *Chat* and a new message is put into the *Chat* you will hear a 'ping' and the *Chat* icon will show a new message has been received.
 
-![image-20200515113039944](image-20200515113039944.png)
+![image-20220118151102969](image-20220118151102969.png)
 
 If you wish to turn off the sound, this can be done by clicking the bell symbol at the top of the *Chat* screen.
 

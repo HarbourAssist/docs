@@ -6,18 +6,18 @@ Harbour Assist provides an online Customer Portal which gives your customers the
 
 You can see whether a customer has registered on the portal at a glance on the *Account Dashboard* page.
 
-![image-20200519084708751](image-20200519084708751.png)
+![image-20220224123654527](image-20220224123654527.png)
 
 If they have not registered, their Registration Code will show.
 
-![image-20200519084756499](image-20200519084756499.png)
+![image-20220224123818340](image-20220224123818340.png)
 
 Using the *Account* tab you can view more detail:-
 
 - You can click to view their Portal
 - You can view their login attempts.
 
-![image-20200518164742371](image-20200518164742371.png)
+![image-20220119164135985](image-20220119164135985.png)
 
 ## A Guide to the Portal
 
@@ -53,7 +53,7 @@ Once logged in the customer is taken to their Dashboard.
 
 The Notification Preferences, Waiting Lists and ‘Pay Now’ can all be enabled or disabled from showing on this page, depending on whether you use HA for ‘marketing’, you want customers to have visibility of waiting lists and you use the Portal to take on-line payments – please let us know if you want any of these disabling.
 
-![image-20200519115005811](image-20200519115005811.png)
+![image-20220119164352582](image-20220119164352582.png)
 
 ### Orders and Making a Payment
 
@@ -63,7 +63,7 @@ When a customer clicks on the ‘Pay Now’ button they will see all outstanding
 
 If a customer doesn’t want to settle their account in full, they can un-check any invoices that they don’t want to pay. This will amend the total payable.
 
-![image-20200519120432807](image-20200519120432807.png)
+![image-20220119164700340](image-20220119164700340.png)
 
 Clicking the ‘Checkout’ button will take the customer onto the payment screen. 
 

@@ -4,7 +4,7 @@ Harbour Assist allows you split berthing fees (or any other charge) across any n
 
 ## Instalment Plans
 
-An Instalment Plan is a a *template* consisting of a number of month numbers with a corresponding percentage split to be applied on each Month.  Instalment Plans create off-the-shelf scenarios such as:
+An Instalment Plan is a *template* consisting of a number of month numbers with a corresponding percentage split to be applied on each Month.  Instalment Plans create off-the-shelf scenarios such as:
 
 - Monthly over 12 months
 - Monthly over 6 months
@@ -20,7 +20,7 @@ Instalment Plans are only set up when a new pattern of payments is created.
 
 ## Instalment Schedules
 
-An Instalment Schedule is simply an Instalment Plan that has been applied to a specific Account with specific dates and amounts.  It represents a set of Monthly Orders belonging to a single Account, each of which having the tax-point dates for the correct due-dates and amounts that they will be owing you money (or paying you).  The table below explains the difference between Instalment Plans and Instalment Schedules.
+An Instalment Schedule is simply an Instalment Plan that has been applied to a specific Account with specific dates and amounts.  It represents a set of  Orders belonging to a single Account, each of which having the tax-point dates for the correct due-dates and amounts that they will be owing you money (or paying you).  The table below explains the difference between Instalment Plans and Instalment Schedules.
 
 
 | Concept                        | Instalment Plan | Instalment Schedule        |
@@ -34,10 +34,9 @@ An Instalment Schedule is simply an Instalment Plan that has been applied to a s
 
 ## Payment Schemes
 
-With the ability to create instalment-based debt, we need the ability to get the money; this is usually done in 1 of several ways and is defined against each Account.
+With the ability to create instalment-based debt, we need the ability to get the money; this is usually done in 1 of two ways and is defined against each Account.
 
 - **Manual** - they just get emailed an Invoice each month and they pay online or over the phone. *Supported*
 - **Direct Debit** - The money is automatically debited from their account at the appropriate time. *Supported in the UK using BottomLine*
-- **Card Drawdown** - Using PaySafe's Card-Vault, when the instalment becomes due, the correct amount is drawn down automatically from the customer's stored card. *Coming soon*.
 
 ?> More documentation [here](Instalments/PaymentSchemes.md).

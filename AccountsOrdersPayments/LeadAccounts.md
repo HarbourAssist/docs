@@ -12,7 +12,7 @@ Lead Accounts differ slightly from any other Account Type, as you cannot raise a
 
 When setting up a Lead Account some additional information is required to be completed (Lead Source and Primary Interest), this is so that enquiry and conversation analysis can be carried out.
 
-You can configure your own Lead Source and Primary Interest dropdown lists in Lookups.  For instance if you attend an annual boat show you could set up a Lead Source of Boat Show 2020 - this would capture how many Leads were received at the show and subsequently how many of those were converted to customers.
+You can configure your own Lead Source and Primary Interest dropdown lists in Lookups.  For instance if you attend an annual boat show you could set up a Lead Source of Boat Show 2022 - this would capture how many Leads were received at the show and subsequently how many of those were converted to customers.
 
 ?> More documentation on Lookups can be found [here](Administration/Lookups.md)
 
@@ -22,7 +22,7 @@ You can configure your own Lead Source and Primary Interest dropdown lists in Lo
 
 To convert a Lead Account, from the *Account* tab click on *Convert to Account*.
 
-![image-20200518155101773](image-20200518155101773.png)
+![image-20220118161150216](image-20220118161150216.png)
 
 Select the Account Type from the dropdown list.
 
@@ -34,17 +34,17 @@ Then click *Save*.
 
 The conversion of the Account is logged in the *History* tab.
 
-![image-20200518155743692](image-20200518155743692.png)
+![image-20220118161602326](image-20220118161602326.png)
 
 ## Lead Conversion Analysis
 
 From the *Home* page select *Reporting*.
 
-![image-20200518160122299](image-20200518160122299.png)
+![image-20220118162226383](image-20220118162226383.png)
 
 Then select the *Lead Conversion Drilldown* report.
 
-![image-20200518160314869](image-20200518160314869.png)
+![image-20220118162415988](image-20220118162415988.png)
 
 Use the + buttons to drill down into the report detail.
 

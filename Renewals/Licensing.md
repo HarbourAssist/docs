@@ -18,7 +18,7 @@ It is best to License a boat to an Asset at the point of setting up the account 
 
 To License a boat to an Asset, from the Dashboard screen select the boat by clicking on the boat name or using the *Boats* tab.
 
-![image-20200106115405932](image-20200106115405932.png)
+![image-20220120160453533](image-20220120160453533.png)
 
 If you have used the Boats tab, select the boat by clicking on the boat name.
 
@@ -26,7 +26,7 @@ Now click on *Manage Licenses*.
 
 ?> NB: If you want to view any current Occupancies etc before setting the License, click on the *Tariffs & Occupancy* tab to see this.
 
-![image-20200106121548566](image-20200106121548566.png)
+![image-20220120161029141](image-20220120161029141.png)
 
 
 
@@ -38,20 +38,20 @@ Find the Asset that you wish to License the boat to - you can do this be filteri
 
 Select *License* on the Asset you want to License the boat to. 
 
-![image-20200106122124548](image-20200106122124548.png)
+![image-20220120161222987](image-20220120161222987.png)
 
 Confirm your selection by clicking on *License*.
 
-![image-20200106122213756](image-20200106122213756.png)
+![image-20220120161659320](image-20220120161659320.png)
 
 The boat is now Licensed to the berth.
 
-![image-20200106122308418](image-20200106122308418.png)
+![image-20220120161803201](image-20220120161803201.png)
 
 Close the pop-up by clicking outside of the pop-up or using the small x in the top right hand of the pop-up.
 
 
-![image-20200106122517264](image-20200106122517264.png)
+![image-20220120161940383](image-20220120161940383.png)
 
 ?>NB. When moving boats through the Occupancy screen, it is important to also move the License if the move is permanent, otherwise when the Batch Renewal Run is carried out it will revert to the Asset the boat is Licensed to.
 
@@ -59,7 +59,7 @@ Close the pop-up by clicking outside of the pop-up or using the small x in the t
 
 If you want to clear a License from a boat, in the Licensing section of the *Tariffs & Occupancy* screen, select *Clear* on the Asset you want to clear the License from.
 
-![image-20200106122722199](image-20200106122722199.png)
+![image-20220120162100436](image-20220120162100436.png)
 
 You will be given a warning that you are about to clear a license.  
 
@@ -71,6 +71,6 @@ You can also make the Asset available to a *Waiting List(s)*.
 
 Click on *Clear License* at the bottom of the screen.
 
-![image-20200106123121526](image-20200106123121526.png)
+![image-20220120162150009](image-20220120162150009.png)
 
 You will be asked to confirm your action - click OK to continue.

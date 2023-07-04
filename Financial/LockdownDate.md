@@ -12,16 +12,16 @@ As our accounting exports are based on a date range, we have introduced the abil
 
 ## Modifying the Lockdown Date
 
-From the *Home* page select *Financial Tools*.
+From the *Home* page go to *Financial Tools*.
 
-![image-20200429135740383](image-20200429135740383.png)
+![image-20220126164736139](image-20220126164736139.png)
 
-The select *Financial Settings*.
+From the drop down list, select *Financial Settings*.
 
-![image-20200429142039650](image-20200429142039650.png)
+![image-20220126164937329](image-20220126164937329.png)
 
 Here you can use the date picker to set a new Lockdown Date.  A history of previous values (and who modified them) can be seen underneath.
 
 ?> You will need to have the **LockdownDateAdministation** Permission to modify this.
 
-![image-20200213133046533](image-20200213133046533.png)
+![image-20220126165257053](image-20220126165257053.png)
